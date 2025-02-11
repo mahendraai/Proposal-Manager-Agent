@@ -1,3 +1,4 @@
+#Developed by Mahendra Ribadiya Proposal Manager AI Agent
 from flask import Flask, request, render_template, jsonify
 from agents import summarizer, template_finder, classifier, validator, formatter
 
