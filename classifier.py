@@ -1,3 +1,5 @@
+
+#Developed by Mahendra Ribadiya Proposal Manager AI Agent
 import docx
 from jinja2 import Template
 
